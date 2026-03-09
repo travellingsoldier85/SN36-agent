@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# See https://github.com
+*.loom
+*.spec
+build/
+dist/
+
+# Unit test / coverage
+.coverage
+.coverage.*
+.nox/
+.tox/
+venv/
+env/
+.venv/
+.env/
+.env
+instance/
+.pytest_cache/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.log
+data/
+Pipfile.lock  # Recommended to be included in version control per pypa/pipenv#598
+
+# Jupyter Notebook
+.ipynb_checkpoints
